@@ -78,10 +78,16 @@
   </ol>
 </details>
 
-
 ## About the project
 
 Background, brief introduction
+
+## Next steps
+
+* Understand SVM
+* Identify potential tricks to counteract imbalanced data
+* Test on each them
+* Visualise data based on features
 
 ## Choosing ML models
 
