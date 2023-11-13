@@ -27,6 +27,14 @@
 
 ## About the project
 
+Let's consider a marketing agent. The products that they would recommend will be based on their inferences of the customers they are interacting with. 
+
+Such inferences include their gender, age, whether they are a family or a group of friends.
+
+Similarly, the robots should be able to infer user profiles to make suitable recommendations. We will explore techniques to identify customer's profile to adapt robot's behaviours. The project will aim to profile users based on these characteristics (one or two of them) automatically.
+
+And a proof-of-concept robot dialogue will be implemented to evaluate the personalisation of the dialogue based on the user profile.
+
 ### Pepper--Social Robot Applied in Human-Robot Interaction experiments
 
 <img src="images/pepper.png" width="400"/>
