@@ -39,6 +39,12 @@ Similarly, the robots should be able to infer user profiles to make suitable rec
 
 And a proof-of-concept robot dialogue will be implemented to evaluate the personalisation of the dialogue based on the user profile.
 
+**A glance at the data distribution**
+<img src="images/newplot (1).png" width="800"/>
+
+**Undersampling to enhance the classification decision boundary**
+<img src="images/newplot.png" width="800"/>
+
 ### Pepper--Social Robot Applied in Human-Robot Interaction experiments
 
 <img src="images/pepper.png" width="400"/>
