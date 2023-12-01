@@ -24,6 +24,10 @@
   </p>
 </div>
 
+[**For Multimodal Learning models training visualisations and code, please access here.**](https://github.com/onlyEugeneLi/Engagement_Prediction/blob/main/Multimodal_Engagement_Prediction.ipynb)<br>
+
+[**For multimodal feature importance assessment, please access here.**](https://github.com/onlyEugeneLi/Engagement_Prediction/blob/main/Single_Modal_Engagement_Prediction.ipynb)<br>
+
 
 ## About the project
 
